@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Berk Öztürk
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Data Science Tools
 - 📫 ozturk-berk@hotmail.com
 
